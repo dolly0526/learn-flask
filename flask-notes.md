@@ -22,7 +22,7 @@ pip install flask
 
 ### flask简介
 
-![](../../Desktop/%E6%88%AA%E5%B1%8F2020-03-2423.40.50.png)
+![](https://tva1.sinaimg.cn/large/00831rSTly1gdb4w11df9j30qw0b6k3d.jpg)
 
 ### 第一个flask程序
 
@@ -31,4 +31,24 @@ pip install flask
 ### debug模式
 
 ![](https://tva1.sinaimg.cn/large/00831rSTly1gd5gcr3xxhj30mo0bgjzs.jpg)
+
+### 配置文件
+
+![](https://tva1.sinaimg.cn/large/00831rSTly1gdb6athy9zj30n009gtfa.jpg)
+
+### url与视图函数的映射
+
+![](https://tva1.sinaimg.cn/large/00831rSTly1gdb6eop4x7j30lg0g4thl.jpg)
+
+![](https://tva1.sinaimg.cn/large/00831rSTly1gdb7osai58j30ng09uqat.jpg)
+
+### url_for
+
+![](https://tva1.sinaimg.cn/large/00831rSTly1gdb7qeld82j30mo0a2wl4.jpg)
+
+![](https://tva1.sinaimg.cn/large/00831rSTly1gdb7reb9o8j30me07sdl2.jpg)
+
+### 自定义url转换器
+
+![](../../Desktop/%E6%88%AA%E5%B1%8F2020-03-2923.28.52.png)
 

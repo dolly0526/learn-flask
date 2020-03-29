@@ -1,3 +1,4 @@
 .idea
 venv
 myfirst_flask/__pycache__
+*.pyc
