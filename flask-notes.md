@@ -20,3 +20,15 @@ pip install flask
 
 ## flask入门（url）
 
+### flask简介
+
+![](../../Desktop/%E6%88%AA%E5%B1%8F2020-03-2423.40.50.png)
+
+### 第一个flask程序
+
+![](https://tva1.sinaimg.cn/large/00831rSTly1gd5g42wwh6j30nm0hsk21.jpg)
+
+### debug模式
+
+![](https://tva1.sinaimg.cn/large/00831rSTly1gd5gcr3xxhj30mo0bgjzs.jpg)
+
